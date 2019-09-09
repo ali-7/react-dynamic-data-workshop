@@ -10,8 +10,7 @@ For this workshop we'll use the GitHub API since it's well documented and famili
 Start by opening the workshop folder, don't peek into solution just yet!
 
 ```bash
-# clone the repo, ssh or HTTPS, whatever you usually do!
-git clone git@github.com:sofiapoh/react-dynamic-data-workshop.git
+# clone the repo
 
 cd react-dynamic-data-workshop
 
@@ -19,17 +18,8 @@ cd workshop
 
 npm i
 
-# or
-
-yarn
-
-#and finally
-
 npm start
 
-# or 
-
-yarn start
 ```
 
 You should now see the following message:
